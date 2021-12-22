@@ -7,10 +7,10 @@ At the end, based on the time the player took to finish the maze.
 
 
 Game by:
-Anas Ahmad Khan: 20BCG10081  
-Shubham Kumbhar: 20BCG10013  
-Anurag Pathak: 20BCG10006  
-Sankalp Jajodia: 20BCG10033  
-Aakash Gupta: 20BCG10053 
+Anas Ahmad Khan 
+Shubham Kumbhar
+Anurag Pathak
+Sankalp Jajodia
+Aakash Gupta
 
 -VIT BHOPAL UNIVERSITY
